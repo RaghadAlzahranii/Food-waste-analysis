@@ -23,21 +23,6 @@ Food Waste by Sector:
 The dataset used for this analysis is publicly available on Kaggle. You can download it from the following link:
 Kaggle Dataset: Food Waste Data
 
-📑 Steps for Analysis:
-
-	1.	Import Libraries and Load Data
-Load the necessary libraries like pandas, seaborn, and matplotlib, and read the dataset into a dataframe.
-	2.	Exploratory Data Analysis (EDA)
-Conduct a preliminary exploration of the dataset, including checking for missing values, duplicates, and understanding the shape and features of the data.
-	3.	Calculate Key Metrics
-	•	Total food waste globally across households, retail, and food services.
-	•	People who could have been fed using wasted food (assuming 500 kg of food per person per year).
-	•	Carbon emissions resulting from food waste.
-	4.	Data Visualizations
-Create static plots using Seaborn and Matplotlib to visualize:
-	•	Food waste by region and sector.
-	•	Carbon emissions by region.
-	•	Total food waste by sector.
 
 🔍 Key Notes:
 
