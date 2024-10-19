@@ -21,7 +21,8 @@ Food Waste by Sector:
 📂 Dataset:
 
 The dataset used for this analysis is publicly available on Kaggle. You can download it from the following link:
-Kaggle Dataset: Food Waste Data
+
+Kaggle Dataset: https://www.kaggle.com/datasets/joebeachcapital/food-waste/data
 
 
 🔍 Key Notes:
